@@ -5015,7 +5015,7 @@ GameObject:
   - component: {fileID: 2920441891713619784}
   - component: {fileID: -2612973871927634567}
   m_Layer: 7
-  m_Name: Monster 5
+  m_Name: Skeleton Ranger (Blue)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5100,7 +5100,7 @@ MonoBehaviour:
   unitName: Monster 5
   baseDamage: 5
   baseAttacksPerSecond: 1
-  baseMaxHealth: 200
+  baseMaxHealth: 150
   baseMaxResource: 100
   baseMovementSpeed: 1
   baseArmor: 0

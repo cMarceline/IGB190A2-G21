@@ -12871,7 +12871,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &623941939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12888,10 +12888,10 @@ MonoBehaviour:
   color: {r: 0, g: 0, b: 0, a: 0}
   colorFade: {r: 0, g: 0, b: 0, a: 0}
   unitName: Sorcerer
-  baseDamage: 25
-  baseAttacksPerSecond: 1.5
+  baseDamage: 35
+  baseAttacksPerSecond: 2.5
   baseMaxHealth: 200
-  baseMaxResource: 200
+  baseMaxResource: 100
   baseMovementSpeed: 3
   baseArmor: 0
   baseCriticalStrikeChance: 0.1
@@ -21252,7 +21252,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1043651113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40112,13 +40112,13 @@ MonoBehaviour:
   color: {r: 0, g: 0, b: 0, a: 0}
   colorFade: {r: 0, g: 0, b: 0, a: 0}
   unitName: Ranger
-  baseDamage: 20
-  baseAttacksPerSecond: 1.8
-  baseMaxHealth: 200
+  baseDamage: 25
+  baseAttacksPerSecond: 2.2
+  baseMaxHealth: 300
   baseMaxResource: 100
   baseMovementSpeed: 3.5
   baseArmor: 0
-  baseCriticalStrikeChance: 0.1
+  baseCriticalStrikeChance: 0.25
   baseCriticalStrikeDamage: 1.5
   baseHealthRegen: 20
   baseResourceRegen: 2

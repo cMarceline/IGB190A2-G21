@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -5019195518724542446}
   - component: {fileID: -7791287930860322206}
   m_Layer: 7
-  m_Name: Monster 3
+  m_Name: Skeleton DPS (Red)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

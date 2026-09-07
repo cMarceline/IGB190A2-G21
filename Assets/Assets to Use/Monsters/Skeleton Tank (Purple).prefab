@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -2414948586266853745}
   - component: {fileID: -901892512958825009}
   m_Layer: 7
-  m_Name: Monster 4
+  m_Name: Skeleton Tank (Purple)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -99,14 +99,14 @@ MonoBehaviour:
   color: {r: 0, g: 0, b: 0, a: 0}
   colorFade: {r: 0, g: 0, b: 0, a: 0}
   unitName: Monster 4
-  baseDamage: 10
-  baseAttacksPerSecond: 2
-  baseMaxHealth: 200
+  baseDamage: 15
+  baseAttacksPerSecond: 1.5
+  baseMaxHealth: 175
   baseMaxResource: 100
   baseMovementSpeed: 1
   baseArmor: 0
-  baseCriticalStrikeChance: 0
-  baseCriticalStrikeDamage: 2
+  baseCriticalStrikeChance: 0.1
+  baseCriticalStrikeDamage: 1.5
   baseHealthRegen: 0
   baseResourceRegen: 0
   baseAttackRange: 2.2
