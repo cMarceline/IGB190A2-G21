@@ -88,8 +88,8 @@ MonoBehaviour:
   unitName: Monster 1
   baseDamage: 10
   baseAttacksPerSecond: 2
-  baseMaxHealth: 200
-  baseMaxResource: 100
+  baseMaxHealth: 100
+  baseMaxResource: 200
   baseMovementSpeed: 0.8
   baseArmor: 0
   baseCriticalStrikeChance: 0
