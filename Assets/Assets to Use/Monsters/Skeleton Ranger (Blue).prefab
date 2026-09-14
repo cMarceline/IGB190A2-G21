@@ -5098,14 +5098,14 @@ MonoBehaviour:
   color: {r: 0, g: 0, b: 0, a: 0}
   colorFade: {r: 0, g: 0, b: 0, a: 0}
   unitName: Monster 5
-  baseDamage: 5
-  baseAttacksPerSecond: 1
-  baseMaxHealth: 150
+  baseDamage: 7.5
+  baseAttacksPerSecond: 1.2
+  baseMaxHealth: 125
   baseMaxResource: 100
   baseMovementSpeed: 1
   baseArmor: 0
   baseCriticalStrikeChance: 0
-  baseCriticalStrikeDamage: 2
+  baseCriticalStrikeDamage: 1.5
   baseHealthRegen: 0
   baseResourceRegen: 0
   baseAttackRange: 2.2

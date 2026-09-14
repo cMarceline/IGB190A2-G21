@@ -194,7 +194,7 @@ MonoBehaviour:
   color: {r: 0, g: 0, b: 0, a: 0}
   colorFade: {r: 0, g: 0, b: 0, a: 0}
   unitName: Spawner
-  baseDamage: 40
+  baseDamage: 30
   baseAttacksPerSecond: 1
   baseMaxHealth: 400
   baseMaxResource: 100
