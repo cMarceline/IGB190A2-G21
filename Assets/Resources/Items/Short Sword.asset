@@ -23,10 +23,26 @@ MonoBehaviour:
   itemSet: {fileID: 0}
   randomStatCount: 0
   guaranteedStats:
+  - stat: 0
+    minimum: 80
+    maximum: 80
+    isPercent: 0
+  - stat: 0
+    minimum: 0.1
+    maximum: 0.1
+    isPercent: 1
   - stat: 3
+    minimum: 0.5
+    maximum: 0.5
+    isPercent: 1
+  - stat: 10
+    minimum: 0.1856
+    maximum: 0.1856
+    isPercent: 0
+  - stat: 11
     minimum: 0.3
     maximum: 0.3
-    isPercent: 1
+    isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0
   canPurchaseInShop: 1
