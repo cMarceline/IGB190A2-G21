@@ -93,7 +93,7 @@ MonoBehaviour:
   baseMovementSpeed: 0.8
   baseArmor: 0
   baseCriticalStrikeChance: 0
-  baseCriticalStrikeDamage: 2
+  baseCriticalStrikeDamage: 1.5
   baseHealthRegen: 0
   baseResourceRegen: 0
   baseAttackRange: 2.2
