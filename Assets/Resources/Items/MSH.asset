@@ -10,26 +10,42 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1cdd5fc33fd8b841b7c7cd7dff9b881, type: 3}
-  m_Name: Common RINGOFAMOR
+  m_Name: MSH
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  itemDescription: This is the power of fredindshi
+  itemDescription: 
   itemTag: 
   itemFlavourText: 
   classRequirement: 
-  itemIcon: {fileID: 21300000, guid: 70429bf7d5f2bf341be1c31492f4ecd0, type: 3}
-  itemType: 0
+  itemIcon: {fileID: 21300000, guid: 5ee626c5c13289943ba7685e2a78f431, type: 3}
+  itemType: 3
   itemRarity: 0
   itemCost: 0
   itemSet: {fileID: 0}
   randomStatCount: 0
   guaranteedStats:
+  - stat: 1
+    minimum: 0
+    maximum: 0
+    isPercent: 1
+  - stat: 1
+    minimum: 50
+    maximum: 50
+    isPercent: 0
+  - stat: 4
+    minimum: 10
+    maximum: 10
+    isPercent: 0
   - stat: 4
     minimum: 0.5
     maximum: 0.5
     isPercent: 1
-  - stat: 4
-    minimum: 25
-    maximum: 25
+  - stat: 10
+    minimum: 0.33
+    maximum: 0.33
+    isPercent: 0
+  - stat: 11
+    minimum: 0.7
+    maximum: 0.7
     isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0
@@ -39,19 +55,19 @@ MonoBehaviour:
   engine:
     scripts:
     - scriptName: Item Equipped
-      scriptUID: 1322150334
+      scriptUID: 637571785
       hasWait: 0
       reportErrors: 1
       eventNodes:
-      - rid: 8378726696674132056
+      - rid: 8378726743094329344
       conditionNodes: []
       actionNodes: []
     - scriptName: Item Unequipped
-      scriptUID: 1344856012
+      scriptUID: 1262050299
       hasWait: 0
       reportErrors: 1
       eventNodes:
-      - rid: 8378726696674132057
+      - rid: 8378726743094329345
       conditionNodes: []
       actionNodes: []
   references:
@@ -59,7 +75,7 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 8378726696674132056
+    - rid: 8378726743094329344
       type: {class: EventNode, ns: , asm: Assembly-CSharp}
       data:
         returnType: 2
@@ -80,7 +96,7 @@ MonoBehaviour:
         allowPreset: 1
         allowFunction: 1
         presets: []
-    - rid: 8378726696674132057
+    - rid: 8378726743094329345
       type: {class: EventNode, ns: , asm: Assembly-CSharp}
       data:
         returnType: 2
