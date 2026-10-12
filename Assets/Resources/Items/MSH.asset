@@ -10,38 +10,42 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1cdd5fc33fd8b841b7c7cd7dff9b881, type: 3}
-  m_Name: ShortSword2
+  m_Name: MSH
   m_EditorClassIdentifier: Assembly-CSharp::Item
   itemDescription: 
   itemTag: 
   itemFlavourText: 
   classRequirement: 
-  itemIcon: {fileID: 21300000, guid: 39f7a15c239ed304bb4cbc5a51763d50, type: 3}
-  itemType: 2
+  itemIcon: {fileID: 21300000, guid: 4198ff1f75a489a4780f3ec386bfb4f5, type: 3}
+  itemType: 3
   itemRarity: 0
   itemCost: 0
   itemSet: {fileID: 0}
   randomStatCount: 0
   guaranteedStats:
-  - stat: 0
-    minimum: 8
-    maximum: 8
-    isPercent: 0
-  - stat: 0
-    minimum: 0.02
-    maximum: 0.02
+  - stat: 1
+    minimum: 0
+    maximum: 0
     isPercent: 1
-  - stat: 3
-    minimum: 0.1
-    maximum: 0.1
+  - stat: 1
+    minimum: 50
+    maximum: 50
+    isPercent: 0
+  - stat: 4
+    minimum: 10
+    maximum: 10
+    isPercent: 0
+  - stat: 4
+    minimum: 0.5
+    maximum: 0.5
     isPercent: 1
   - stat: 10
-    minimum: 0.02
-    maximum: 0.02
+    minimum: 0.33
+    maximum: 0.33
     isPercent: 0
   - stat: 11
-    minimum: 0.03
-    maximum: 0.03
+    minimum: 0.7
+    maximum: 0.7
     isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0
@@ -51,19 +55,19 @@ MonoBehaviour:
   engine:
     scripts:
     - scriptName: Item Equipped
-      scriptUID: 1510141426
+      scriptUID: 637571785
       hasWait: 0
       reportErrors: 1
       eventNodes:
-      - rid: 8378726425516310609
+      - rid: 8378726743094329344
       conditionNodes: []
       actionNodes: []
     - scriptName: Item Unequipped
-      scriptUID: 236404686
+      scriptUID: 1262050299
       hasWait: 0
       reportErrors: 1
       eventNodes:
-      - rid: 8378726425516310610
+      - rid: 8378726743094329345
       conditionNodes: []
       actionNodes: []
   references:
@@ -71,7 +75,7 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 8378726425516310609
+    - rid: 8378726743094329344
       type: {class: EventNode, ns: , asm: Assembly-CSharp}
       data:
         returnType: 2
@@ -92,7 +96,7 @@ MonoBehaviour:
         allowPreset: 1
         allowFunction: 1
         presets: []
-    - rid: 8378726425516310610
+    - rid: 8378726743094329345
       type: {class: EventNode, ns: , asm: Assembly-CSharp}
       data:
         returnType: 2
