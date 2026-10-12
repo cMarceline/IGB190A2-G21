@@ -80,10 +80,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8396670001580682531, guid: dcffc3229773d2a168f00490521eb34c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8396670001580682531, guid: dcffc3229773d2a168f00490521eb34c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -985542389825260074, guid: dcffc3229773d2a168f00490521eb34c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 870930f9c69d5e582995d13a14012001, type: 2}
+    - target: {fileID: -511310931620521848, guid: dcffc3229773d2a168f00490521eb34c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -511310931620521848, guid: dcffc3229773d2a168f00490521eb34c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: dcffc3229773d2a168f00490521eb34c, type: 3}
       propertyPath: m_Name
       value: JBreathing 1
