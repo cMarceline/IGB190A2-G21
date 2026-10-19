@@ -10,13 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1cdd5fc33fd8b841b7c7cd7dff9b881, type: 3}
+<<<<<<<< HEAD:Assets/Resources/Items/Greatsword 2.asset
   m_Name: Greatsword 2
+========
+  m_Name: CommonShortSword
+>>>>>>>> main:Assets/Resources/Items/CommonShortSword.asset
   m_EditorClassIdentifier: Assembly-CSharp::Item
   itemDescription: 
   itemTag: 
   itemFlavourText: 
   classRequirement: 
-  itemIcon: {fileID: 21300000, guid: 39f7a15c239ed304bb4cbc5a51763d50, type: 3}
+  itemIcon: {fileID: 21300000, guid: 5ad9fb827823973498b6278fd53029ed, type: 3}
   itemType: 2
   itemRarity: 2
   itemCost: 0
@@ -24,6 +28,7 @@ MonoBehaviour:
   randomStatCount: 0
   guaranteedStats:
   - stat: 0
+<<<<<<<< HEAD:Assets/Resources/Items/Greatsword 2.asset
     minimum: 150
     maximum: 150
     isPercent: 0
@@ -34,14 +39,35 @@ MonoBehaviour:
   - stat: 3
     minimum: 0.18
     maximum: 0.18
+========
+    minimum: 80
+    maximum: 80
+    isPercent: 0
+  - stat: 0
+    minimum: 0.1
+    maximum: 0.1
+>>>>>>>> main:Assets/Resources/Items/CommonShortSword.asset
+    isPercent: 1
+  - stat: 3
+    minimum: 0.5
+    maximum: 0.5
     isPercent: 1
   - stat: 10
+<<<<<<<< HEAD:Assets/Resources/Items/Greatsword 2.asset
     minimum: 0.2631
     maximum: 0.2631
     isPercent: 0
   - stat: 11
     minimum: 0.7
     maximum: 0.7
+========
+    minimum: 0.18
+    maximum: 0.18
+    isPercent: 0
+  - stat: 11
+    minimum: 0.3
+    maximum: 0.3
+>>>>>>>> main:Assets/Resources/Items/CommonShortSword.asset
     isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0
