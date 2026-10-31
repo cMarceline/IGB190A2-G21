@@ -17,5 +17,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Epilogue.unity
     guid: 9dee88900a2937b46afb33f50887599b
+  - enabled: 1
+    path: Assets/Scenes/Level(temp).unity
+    guid: cc450e43891fa4ee8a057212d395de81
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 5f64461afaf444e859859c2026618051
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
