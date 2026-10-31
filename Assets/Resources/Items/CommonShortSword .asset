@@ -24,24 +24,24 @@ MonoBehaviour:
   randomStatCount: 0
   guaranteedStats:
   - stat: 0
-    minimum: 80
-    maximum: 80
+    minimum: 70
+    maximum: 70
     isPercent: 0
   - stat: 0
-    minimum: 0.1
-    maximum: 0.1
+    minimum: 0.05
+    maximum: 0.05
     isPercent: 1
   - stat: 3
-    minimum: 0.5
-    maximum: 0.5
+    minimum: 0.45
+    maximum: 0.45
     isPercent: 1
   - stat: 10
-    minimum: 0.1856
-    maximum: 0.1856
+    minimum: 0.1436
+    maximum: 0.1436
     isPercent: 0
   - stat: 11
-    minimum: 0.3
-    maximum: 0.3
+    minimum: 0
+    maximum: 0
     isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0

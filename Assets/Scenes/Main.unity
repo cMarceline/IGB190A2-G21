@@ -8281,6 +8281,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5184449006530483668, guid: caef50e694e10204c993186864e4cc23, type: 3}
+      propertyPath: baseMaxHealth
+      value: 800
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13148,7 +13152,7 @@ MonoBehaviour:
   baseArmor: 0
   baseCriticalStrikeChance: 0.1
   baseCriticalStrikeDamage: 1.5
-  baseHealthRegen: 20
+  baseHealthRegen: 12
   baseResourceRegen: 8
   baseAttackRange: 2
   health: 500
@@ -19175,6 +19179,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5184449006530483668, guid: caef50e694e10204c993186864e4cc23, type: 3}
+      propertyPath: baseMaxHealth
+      value: 1000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21560,7 +21568,7 @@ MonoBehaviour:
   baseArmor: 0
   baseCriticalStrikeChance: 0.1
   baseCriticalStrikeDamage: 1.5
-  baseHealthRegen: 20
+  baseHealthRegen: 12
   baseResourceRegen: 0
   baseAttackRange: 2.5
   health: 500
@@ -27300,6 +27308,10 @@ PrefabInstance:
     - target: {fileID: 4774323926024196215, guid: caef50e694e10204c993186864e4cc23, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184449006530483668, guid: caef50e694e10204c993186864e4cc23, type: 3}
+      propertyPath: baseMaxHealth
+      value: 1200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40468,7 +40480,7 @@ MonoBehaviour:
   baseArmor: 0
   baseCriticalStrikeChance: 0.25
   baseCriticalStrikeDamage: 1.5
-  baseHealthRegen: 20
+  baseHealthRegen: 12
   baseResourceRegen: 2
   baseAttackRange: 2
   health: 500
@@ -42075,7 +42087,7 @@ MonoBehaviour:
   baseArmor: 0
   baseCriticalStrikeChance: 0.1
   baseCriticalStrikeDamage: 1.5
-  baseHealthRegen: 20
+  baseHealthRegen: 12
   baseResourceRegen: 0
   baseAttackRange: 2.5
   health: 500
@@ -42786,6 +42798,10 @@ PrefabInstance:
     - target: {fileID: 4774323926024196215, guid: caef50e694e10204c993186864e4cc23, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184449006530483668, guid: caef50e694e10204c993186864e4cc23, type: 3}
+      propertyPath: baseMaxHealth
+      value: 1200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -47549,6 +47565,10 @@ PrefabInstance:
     - target: {fileID: 243147159722867909, guid: 374d47c23bdc7f5469a02d3129649e86, type: 3}
       propertyPath: unitName
       value: Boss
+      objectReference: {fileID: 0}
+    - target: {fileID: 243147159722867909, guid: 374d47c23bdc7f5469a02d3129649e86, type: 3}
+      propertyPath: baseMaxHealth
+      value: 1500
       objectReference: {fileID: 0}
     - target: {fileID: 243147159722867909, guid: 374d47c23bdc7f5469a02d3129649e86, type: 3}
       propertyPath: abilities.Array.size

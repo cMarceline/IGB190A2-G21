@@ -28,20 +28,20 @@ MonoBehaviour:
     maximum: 120
     isPercent: 0
   - stat: 0
-    minimum: 0.25
-    maximum: 0.25
+    minimum: 0.2
+    maximum: 0.2
     isPercent: 1
   - stat: 3
-    minimum: 0.15
-    maximum: 0.15
+    minimum: 0.1
+    maximum: 0.1
     isPercent: 1
   - stat: 10
-    minimum: 0.22
-    maximum: 0.22
+    minimum: 0.1856
+    maximum: 0.1856
     isPercent: 0
   - stat: 11
-    minimum: 0.7
-    maximum: 0.7
+    minimum: 0.3
+    maximum: 0.3
     isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0

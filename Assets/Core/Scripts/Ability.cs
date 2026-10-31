@@ -409,7 +409,7 @@ public class Ability : ScriptableObject, IVisualCodeHandler
         if (castCompleteSound != null)
         {
             if (GetOwner() is Player)
-                GameManager.music.PlaySound(castCompleteSound, castCompleteSoundVolume);
+                    GameManager.music.PlaySound(castCompleteSound, castCompleteSoundVolume);
             else
                 GameManager.music.PlaySound(castCompleteSound, castCompleteSoundVolume * 
                     MONSTER_SOUND_VOLUME_MODIFIER);
