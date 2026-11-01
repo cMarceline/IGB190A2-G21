@@ -49,8 +49,8 @@ MonoBehaviour:
     isPercent: 0
   randomisableStats: []
   minimumDropLevel: 0
-  canPurchaseInShop: 1
-  canDropOffMonster: 1
+  canPurchaseInShop: 0
+  canDropOffMonster: 0
   template: {fileID: 0}
   engine:
     scripts:

@@ -19,7 +19,7 @@ MonoBehaviour:
   itemIcon: {fileID: 88852035, guid: ea8a749ce00d6dd45a618657d57452d8, type: 3}
   itemType: 0
   itemRarity: 2
-  itemCost: 0
+  itemCost: 50
   itemSet: {fileID: 0}
   randomStatCount: 0
   guaranteedStats:
