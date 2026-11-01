@@ -129,7 +129,7 @@ MonoBehaviour:
     - rid: 3532775480752079101
       type: {class: UnitNode, ns: , asm: Assembly-CSharp}
       data:
-        returnType: 0
+        returnType: 3
         tempName: Unit
         functionName: 
         functionDescription: 

@@ -14171,7 +14171,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &623941939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16870,7 +16870,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4146839252893889367, guid: 92dc243c197ec266a81ef66d1a3c7ecc, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -44974,7 +44974,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1890297426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44990,7 +44990,7 @@ MonoBehaviour:
   outline: {fileID: 0}
   color: {r: 0, g: 0, b: 0, a: 0}
   colorFade: {r: 0, g: 0, b: 0, a: 0}
-  unitName: Barbarian
+  unitName: Bard
   baseDamage: 20
   baseAttacksPerSecond: 1.5
   baseMaxHealth: 200
@@ -45006,10 +45006,10 @@ MonoBehaviour:
   resource: 0
   abilities:
   - {fileID: 11400000, guid: cbbf2357a81cf204b8dadb4602904de0, type: 2}
-  - {fileID: 11400000, guid: 2f1f41c2a1067594e8376bffc6d6f7a2, type: 2}
+  - {fileID: 11400000, guid: e3b1906429c6c2cacaa79c7e0c9e0947, type: 2}
+  - {fileID: 11400000, guid: 02bb93dfe405ad77488e539f1e29ea8e, type: 2}
   - {fileID: 11400000, guid: dcf06f73b05311c469df4ff76bc88947, type: 2}
-  - {fileID: 11400000, guid: 2c0d2df3b515c4d47aa500f8d2a596b8, type: 2}
-  - {fileID: 11400000, guid: 5180f7ad42a7a934282a62699a87c731, type: 2}
+  - {fileID: 11400000, guid: 9b717219801f8f914999fcb3fc9b79f5, type: 2}
   lastAbilityCast: {fileID: 0}
   unitCanBeForceMoved: 1
   handPoint: {fileID: 0}
@@ -45037,8 +45037,8 @@ MonoBehaviour:
   leftClickAbility: {fileID: 0}
   rightClickAlsoMoves: 1
   levelUpFeedback: {fileID: 11400000, guid: 9cdaa1d98fc0cc4428a905e670a76812, type: 2}
-  resourceName: Rage
-  resourceMaterial: {fileID: 2100000, guid: b8286c3806406a74eaa1c5a1ac724e39, type: 2}
+  resourceName: Mana
+  resourceMaterial: {fileID: 2100000, guid: dd6dc55119cde6f4ab2a8561e505a971, type: 2}
   bonusDamagePerLevel: 0
   bonusHealthPerLevel: 0
   bonusMovementSpeedPerLevel: 0

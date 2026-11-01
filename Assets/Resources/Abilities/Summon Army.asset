@@ -179,7 +179,7 @@ MonoBehaviour:
     - rid: 3532775480752079120
       type: {class: UnitNode, ns: , asm: Assembly-CSharp}
       data:
-        returnType: 0
+        returnType: 3
         tempName: Unit
         functionName: 
         functionDescription: 
@@ -335,7 +335,7 @@ MonoBehaviour:
     - rid: 3532775480752079137
       type: {class: UnitNode, ns: , asm: Assembly-CSharp}
       data:
-        returnType: 0
+        returnType: 3
         tempName: Unit
         functionName: 
         functionDescription: 
@@ -557,7 +557,7 @@ MonoBehaviour:
     - rid: 3532775480752079147
       type: {class: UnitNode, ns: , asm: Assembly-CSharp}
       data:
-        returnType: 0
+        returnType: 3
         tempName: Unit
         functionName: 
         functionDescription: 
@@ -713,7 +713,7 @@ MonoBehaviour:
     - rid: 3532775480752079154
       type: {class: UnitNode, ns: , asm: Assembly-CSharp}
       data:
-        returnType: 0
+        returnType: 3
         tempName: Unit
         functionName: 
         functionDescription: 
@@ -911,7 +911,7 @@ MonoBehaviour:
     - rid: 3532775480752079163
       type: {class: UnitNode, ns: , asm: Assembly-CSharp}
       data:
-        returnType: 0
+        returnType: 3
         tempName: Unit
         functionName: 
         functionDescription: 
